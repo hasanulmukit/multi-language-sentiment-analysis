@@ -1,8 +1,8 @@
-# Sentiment Analysis App
+# Multi Language Sentiment Analysis App
 
 ## 📌 Overview
 
-This is a **Sentiment Analysis App** built with **Streamlit** and **Hugging Face Transformers**. It allows users to analyze the sentiment (Positive, Negative) of any given text using **state-of-the-art NLP models**.
+This is a **Multi Language Sentiment Analysis App** built with **Streamlit** and **Hugging Face Transformers**. It allows users to analyze the sentiment (Positive, Negative) of any given text using **state-of-the-art NLP models**.
 
 ## 🚀 Features
 
