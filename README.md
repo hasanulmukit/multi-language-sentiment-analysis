@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This is a **Sentiment Analysis App** built with **Streamlit** and **Hugging Face Transformers**. It allows users to analyze the sentiment (Positive, Negative, Neutral) of any given text using **state-of-the-art NLP models**.
+This is a **Sentiment Analysis App** built with **Streamlit** and **Hugging Face Transformers**. It allows users to analyze the sentiment (Positive, Negative) of any given text using **state-of-the-art NLP models**.
 
 ## 🚀 Features
 
