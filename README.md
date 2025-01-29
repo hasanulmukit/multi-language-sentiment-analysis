@@ -17,7 +17,7 @@ This is a **Sentiment Analysis App** built with **Streamlit** and **Hugging Face
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-app.git
+   git clone https://github.com/hasanulmukit/sentiment-analysis-app.git
    cd sentiment-analysis-app
    ```
 2. Install dependencies:
