@@ -11,7 +11,7 @@ st.set_page_config(page_title="Sentiment Analysis", page_icon="📝", layout="ce
 # Load Hugging Face Sentiment Analysis Model
 @st.cache_resource
 def load_model():
-    return pipeline("sentiment-analysis")
+    return pipeline(sentiment-analysis)
 
 nlp = load_model()
 
